@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Image_73.jpg</filename>
+	<path>E:\Object Detection Using Yolo\Images\Image_73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>1677</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sofa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>560</ymin>
+			<xmax>2546</xmax>
+			<ymax>1602</ymax>
+		</bndbox>
+	</object>
+</annotation>

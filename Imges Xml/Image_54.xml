@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Image_54.jpg</filename>
+	<path>E:\Object Detection Using Yolo\Images\Image_54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pottedplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>8</ymin>
+			<xmax>690</xmax>
+			<ymax>785</ymax>
+		</bndbox>
+	</object>
+</annotation>

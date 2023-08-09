@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Image_172.jpg</filename>
+	<path>E:\Object Detection Using Yolo\Images\Image_172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>358</ymin>
+			<xmax>1777</xmax>
+			<ymax>952</ymax>
+		</bndbox>
+	</object>
+</annotation>

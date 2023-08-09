@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Image_68.jpg</filename>
+	<path>E:\Object Detection Using Yolo\Images\Image_68.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>976</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>144</ymin>
+			<xmax>620</xmax>
+			<ymax>727</ymax>
+		</bndbox>
+	</object>
+</annotation>

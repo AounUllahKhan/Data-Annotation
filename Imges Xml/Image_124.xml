@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Image_124.JPG</filename>
+	<path>E:\Object Detection Using Yolo\Images\Image_124.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>117</ymin>
+			<xmax>1800</xmax>
+			<ymax>1272</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Image_153.jpg</filename>
+	<path>E:\Object Detection Using Yolo\Images\Image_153.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3204</width>
+		<height>2295</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>90</ymin>
+			<xmax>2862</xmax>
+			<ymax>2295</ymax>
+		</bndbox>
+	</object>
+</annotation>

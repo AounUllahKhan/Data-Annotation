@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Image_182.jpg</filename>
+	<path>E:\Object Detection Using Yolo\Images\Image_182.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pottedplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>178</ymin>
+			<xmax>1169</xmax>
+			<ymax>808</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>diningtable</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>469</ymin>
+			<xmax>2000</xmax>
+			<ymax>1890</ymax>
+		</bndbox>
+	</object>
+</annotation>

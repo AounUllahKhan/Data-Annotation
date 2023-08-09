@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Image_160.jpg</filename>
+	<path>E:\Object Detection Using Yolo\Images\Image_160.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3213</width>
+		<height>2161</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>train</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>484</ymin>
+			<xmax>3213</xmax>
+			<ymax>1859</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>877</ymin>
+			<xmax>167</xmax>
+			<ymax>1391</ymax>
+		</bndbox>
+	</object>
+</annotation>

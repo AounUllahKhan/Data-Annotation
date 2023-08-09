@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Image_109.jpg</filename>
+	<path>E:\Object Detection Using Yolo\Images\Image_109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4752</width>
+		<height>3168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>4</ymin>
+			<xmax>4150</xmax>
+			<ymax>3009</ymax>
+		</bndbox>
+	</object>
+</annotation>

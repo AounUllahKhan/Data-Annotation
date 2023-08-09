@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Image_45.jpg</filename>
+	<path>E:\Object Detection Using Yolo\Images\Image_45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2542</width>
+		<height>1894</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>267</ymin>
+			<xmax>1673</xmax>
+			<ymax>1655</ymax>
+		</bndbox>
+	</object>
+</annotation>
